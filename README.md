@@ -1,3 +1,4 @@
 # Dynamic-Programming
 
-Leetcode blind 75 solutions
+Leetcode DP solutions
+(mainly Blind 75 and Neetcode 150)
