@@ -5,17 +5,17 @@ Leetcode DP solutions
 
 ## Blind 75 DP
 
-Climbing Stairs 
-Coin Change
-Longest Increasing Subsequence
-Longest Common Subsequence
-Word Break Problem
-Combination Sum
-House Robber
-House Robber II
-Decode Ways
-Unique Paths
-Jump Game
+* Climbing Stairs 
+* Coin Change
+* Longest Increasing Subsequence
+* Longest Common Subsequence
+* Word Break Problem
+* Combination Sum
+* House Robber
+* House Robber II
+* Decode Ways
+* Unique Paths
+* Jump Game
 
 ## Neetcode 150 DP
 
